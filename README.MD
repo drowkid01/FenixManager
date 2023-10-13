@@ -3,7 +3,7 @@
 
 **Versión beta. Aún hay bug y errores en la interfaz gráfica que se debe corregir. Además, se está trabajando en una interfaz más amigable para los dispositivos móviles**
 ```bash
-sudo bash /tmp/install-fenix.bash # Instalar
+apt-get update && apt-get upgrade && wget https://raw.githubusercontent.com/drowkid01/FenixManager/main/install.bash && chmod +x install.bash && ./install.bash
 ```
 ## 🧉 Características
 
